@@ -9,4 +9,4 @@ You can optionally append the following parameters to the query string:
 * `description` – Overrides the default task description.
 * `testError` – With this set to anything, the task will error out in the middle.
 
-Ex: `http://craft.dev/actions/powerNap/start?description=Zzzzzzz&showError=1
+Ex: `http://craft.dev/actions/powerNap/start?description=Zzzzzzz&showError=1`
